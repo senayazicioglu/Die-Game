@@ -1,0 +1,9 @@
+myDiePlayer=50 ye kadar oldugunda;
+
+1. %24.8
+2. %25.8
+3. %24.5
+4. %24.9
+
+bu stratejiler arasında en iyisi HoldAt25DiePlayer()'dır. Kendi stratejim ikinci en 
+olan stratejidir.
